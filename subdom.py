@@ -1,4 +1,5 @@
 #!.../Python3
+#Codado por cyrus
 
 import requests,sys
 
