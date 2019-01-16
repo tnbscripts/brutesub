@@ -16,7 +16,7 @@ with open("subdomains.txt") as file:
 	print(f"[*]initiating attack on: {target}\n")
 	count = 0
 	for i in file:
-		limit = 500
+		limit = 200
 		count += 1
 		if count >= limit:
 			print("[...]Processing[...]")
